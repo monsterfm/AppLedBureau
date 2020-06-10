@@ -1,0 +1,9 @@
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\bin\Release\AppLedBureau.exe.config
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\bin\Release\AppLedBureau.exe
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\bin\Release\AppLedBureau.pdb
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\obj\Release\AppLedBureau.csprojResolveAssemblyReference.cache
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\obj\Release\AppLedBureau.LED.resources
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\obj\Release\AppLedBureau.Properties.Resources.resources
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\obj\Release\AppLedBureau.csproj.GenerateResource.Cache
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\obj\Release\AppLedBureau.exe
+C:\Users\monster_fm\Documents\Arduino\sketch_jul18a\AppLedBureau\AppLedBureau\obj\Release\AppLedBureau.pdb
